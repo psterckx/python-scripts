@@ -1,3 +1,4 @@
+# Peter Sterkcx
 # Calculate Size of Folders in a Directory
 
 # Takes 1 argument: directory path
